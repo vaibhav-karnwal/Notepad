@@ -1,8 +1,7 @@
 {
-  "name": "textarea",
+  "name": "notepad",
   "version": "0.1.0",
-  "homepage": "https://vaibhav-karnwal.github.io/react-gh-pages",
-  "version": "0.1.0",
+  "homepage": "https://vaibhav-karnwal.github.io/notepad",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
